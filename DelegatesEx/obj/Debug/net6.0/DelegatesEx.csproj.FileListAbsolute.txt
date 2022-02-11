@@ -1,0 +1,15 @@
+C:\Users\Pavani\source\repos\DelegatesEx\DelegatesEx\bin\Debug\net6.0\DelegatesEx.exe
+C:\Users\Pavani\source\repos\DelegatesEx\DelegatesEx\bin\Debug\net6.0\DelegatesEx.deps.json
+C:\Users\Pavani\source\repos\DelegatesEx\DelegatesEx\bin\Debug\net6.0\DelegatesEx.runtimeconfig.json
+C:\Users\Pavani\source\repos\DelegatesEx\DelegatesEx\bin\Debug\net6.0\DelegatesEx.dll
+C:\Users\Pavani\source\repos\DelegatesEx\DelegatesEx\bin\Debug\net6.0\ref\DelegatesEx.dll
+C:\Users\Pavani\source\repos\DelegatesEx\DelegatesEx\bin\Debug\net6.0\DelegatesEx.pdb
+C:\Users\Pavani\source\repos\DelegatesEx\DelegatesEx\obj\Debug\net6.0\DelegatesEx.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pavani\source\repos\DelegatesEx\DelegatesEx\obj\Debug\net6.0\DelegatesEx.AssemblyInfoInputs.cache
+C:\Users\Pavani\source\repos\DelegatesEx\DelegatesEx\obj\Debug\net6.0\DelegatesEx.AssemblyInfo.cs
+C:\Users\Pavani\source\repos\DelegatesEx\DelegatesEx\obj\Debug\net6.0\DelegatesEx.csproj.CoreCompileInputs.cache
+C:\Users\Pavani\source\repos\DelegatesEx\DelegatesEx\obj\Debug\net6.0\DelegatesEx.dll
+C:\Users\Pavani\source\repos\DelegatesEx\DelegatesEx\obj\Debug\net6.0\ref\DelegatesEx.dll
+C:\Users\Pavani\source\repos\DelegatesEx\DelegatesEx\obj\Debug\net6.0\DelegatesEx.pdb
+C:\Users\Pavani\source\repos\DelegatesEx\DelegatesEx\obj\Debug\net6.0\DelegatesEx.genruntimeconfig.cache
+C:\Users\Pavani\source\repos\DelegatesEx\DelegatesEx\obj\Debug\net6.0\DelegatesEx.csproj.AssemblyReference.cache
